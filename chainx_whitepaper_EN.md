@@ -1,6 +1,6 @@
 <h1 align="center">ChainX Whitepaper</h1>
 
-<p align="center">2019-06-10</p>
+<p align="center">2019-07-26</p>
 <p align="center">Inter-chain hub for digital assets</p>
 <p align="center">Breaking barriers among assets in different chains and creating the ecosystem of multi-currency integration</p>
 
@@ -39,7 +39,7 @@ great amount of improvements need to be made to achieve the above features, incl
 ChainX will issue cryptocurrency PCX (P stands for Polkadot), with a total of 21 million and the amount released halved every two years. 20% of the issuance in the first two years is distributed to the founding team for ongoing development. After two years, all new issuance will be distributed to the community.
 
 <p align="center">
-    <img width="400px" src="images/cn_1.png">
+    <img width="400px" src="images/en_1.png">
 </p>
 
 #### Asset mining
@@ -165,7 +165,7 @@ The profit model of the node is getting 10% mining revenues of the user, and the
 ## Transfer bridge
 
 <p align="center">
-    <img width="800px" src="images/cn_2.png">
+    <img width="800px" src="images/en_2.png">
 </p>
 
 Asset crossing chains is a process in which a user locks the asset in the original chain, maps asset onto the target chain where withdrawal is available, and finally unlocks the asset in the original chain.
@@ -232,7 +232,7 @@ Parachains can be developed using different types of blockchain underlying techn
 ### ChainX v1: Goes live before Polkadot launching
 
 <p align="center">
-    <img width="400px" src="images/cn_3.png">
+    <img width="400px" src="images/en_3.png">
 </p>
 
 It will first operate as an independent chain and issue PCX, meanwhile build the transfer bridges with the current mainstream chains, and integrate inter-chain assets on chains of BTC, LTC, ZEC, ETH, ERC20, ERC721, ADA, EOS to make it more extensive, so that more users can participate in asset mining.
@@ -240,7 +240,7 @@ It will first operate as an independent chain and issue PCX, meanwhile build the
 ### ChainX v2: Goes live after Polkadot launching v1 in 2019 Q4
 
 <p align="center">
-    <img width="400px" src="images/cn_4.png">
+    <img width="400px" src="images/en_4.png">
 </p>
 
 ChainX will add a new transfer bridge chain as a parallel chain of Polkadot to connect Polkadot assets and will continue to support the community in developing various DApps.
@@ -248,7 +248,7 @@ ChainX will add a new transfer bridge chain as a parallel chain of Polkadot to c
 ### ChainX v3: Goes live after Polkadot launching v2 in 2020
 
 <p align="center">
-    <img width="400px" src="images/cn_5.png">
+    <img width="400px" src="images/en_5.png">
 </p>
 
 ChainX will evolve into a multi-chain architecture and operate as the second-layer relay network of Polkadot.

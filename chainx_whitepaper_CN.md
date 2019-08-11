@@ -1,6 +1,6 @@
 <h1 align="center">ChainX 白皮书</h1>
 
-<p align="center">2019-07-25</p>
+<p align="center">2019-07-26</p>
 <p align="center">数字资产的跨链枢纽</p>
 <p align="center">打破链间资产壁垒，实现多币种融合的公链生态</p>
 
